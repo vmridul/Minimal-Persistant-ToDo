@@ -1,0 +1,40 @@
+* {
+    font-family: "Montserrat";
+    padding: 0;
+    margin: 0;
+    background-color: #EEEFE0;
+}
+
+h1{
+    text-align: center;
+    background-color: #819A91;
+    font-size: 50px;
+    padding: 15px 0px;
+    color: #EEEFE0;
+}
+h2{
+    text-align: center;
+    color: #819A91;
+    margin: 20px 0px;
+}
+
+#inp{
+    margin-top: 50px;
+    padding: 10px 40px;
+    border-radius: 10px;
+    background-color: #D1D8BE;
+}
+
+#but {
+    padding: 10px 40px;
+    background-color: #819A91;
+    border-radius: 10px;
+}
+
+#items_div {
+    margin: 0px 100px;
+}
+
+.input_div {
+    text-align: center;
+}
